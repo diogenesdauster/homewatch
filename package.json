@@ -1,0 +1,21 @@
+{
+  "name": "ruasegura",
+  "version": "1.0.0",
+  "description": "a kick start developed for i.t guys",
+  "main": "index.js",
+  "repository": "https://github.com/diogenesdauster/homewatch.git",
+  "author": "Dauster,Bruno,Thiago",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-hot-loader": "^4.12.19"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
