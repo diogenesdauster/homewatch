@@ -1,6 +1,5 @@
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable consistent-return */
-/* eslint-disable no-underscore-dangle */
+/* eslint no-underscore-dangle: ["error", { "allow": ["_id"] }] */
+/* eslint consistent-return: ["error", { "treatUndefinedAsUnspecified": true }] */
 import jwt from 'jsonwebtoken';
 import expressJwt from 'express-jwt';
 // eslint-disable-next-line no-unused-vars
