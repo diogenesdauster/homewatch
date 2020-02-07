@@ -4,4 +4,7 @@ This is a Kick Start project from some I.T guys work on.
 
 - React 
 - Babel 
-- webpack   
+- Webpack   
+- Node 
+- MongoDb
+- React-Native
