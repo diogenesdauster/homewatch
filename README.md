@@ -10,3 +10,9 @@ This is a Kick Start project from some I.T guys work on.
 - React-Native
 - EsLint
 - prettier 
+
+
+# Todo
+- TypeScript
+- CI/CD
+- Jest
