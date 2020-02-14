@@ -16,3 +16,4 @@ This is a Kick Start project from some I.T guys work on.
 - TypeScript
 - CI/CD
 - Jest
+- Docker
